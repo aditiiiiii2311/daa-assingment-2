@@ -12,13 +12,12 @@
 ##When we call someone, the name/number is searched in the OBST and the level is returned in which the name/number is found.Also, this operation increases the frequency of that particular person and a new OBST is created with minimum cost.
 ##When we create a new contact, name and number is taken and added to the respective arrays. Then,a new OBST is created with frequency of ne
 wly added contact as 1.
-With 'n' different nodes, we can create 
-
- different trees.
+With 'n' different nodes, we can create ![image](https://user-images.githubusercontent.com/112850551/204069635-be66a278-6bd6-4cc4-b99b-656b6abb1c4b.png)different trees.
 Thus, we need to find the Tree whose cost can be minimum and this can be done with Optimal Binary Search Tree.
 
 Printing the OBST with already present information.
-image
+![image](https://user-images.githubusercontent.com/112850551/204069756-edc48c09-bb28-4e9f-9a96-503fb3e807a1.png)
+
 
 image
 

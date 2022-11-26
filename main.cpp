@@ -3,7 +3,7 @@ using namespace std;
 
 #define ll long long
 
-vector<string> names{"yash","sid","reema","vinit"};
+vector<string> names{"aditi","devanshi","sid","aarya"};
 vector<ll> contacts{7709660260,7887439040,9657485942,8446152560};
 vector<ll> freq{4,2,6,3};
 ll cost[10000][10000];
